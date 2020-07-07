@@ -1,5 +1,5 @@
 # boostcourse-ds-510
-[[부스트코스] 파이썬으로 시작하는 데이터 사이언스 강좌소개 : edwith](https://www.edwith.org/boostcourse-ds-510)의 소스코드
+[[부스트코스] 파이썬으로 시작하는 데이터 사이언스](https://www.edwith.org/boostcourse-ds-510)의 소스코드
 
 
 ## 데이터 분석을 위한 파이썬 속성 코스
