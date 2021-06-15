@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/corazzon/boostcourse-ds-510/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# [[부스트코스] 파이썬으로 시작하는 데이터 사이언스](https://www.boostcourse.org/ds112)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<a href="https://www.boostcourse.org/ds112"><img src="https://cphinf.pstatic.net/mooc/20191227_233/1577431798875Knuvv_PNG/DS_01.png" width=242></a>
 
-### Markdown
+* [⚡️ 파이썬으로 시작하는 데이터 사이언스(분석, 시각화)](https://www.boostcourse.org/ds112)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## 데이터 분석을 위한 파이썬 속성 코스
 
-- Bulleted
-- List
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/boostcourse-ds-510/blob/master/python-for-eda-output.ipynb)
 
-1. Numbered
-2. List
+## 치트시트를 활용한 판다스 기초 익히기
 
-**Bold** and _Italic_ and `Code` text
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/boostcourse-ds-510/blob/master/pandas-cheat-sheet.ipynb)
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## 서울 종합병원 분포 확인하기
 
-### Jekyll Themes
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/boostcourse-ds-510/blob/master/open-data-analysis-output.ipynb)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/corazzon/boostcourse-ds-510/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+## 건강검진 데이터로 가설검정하기
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/boostcourse-ds-510/blob/master/health_analysis-output.ipynb)
+
+
+## K-beauty 온라인 판매분석
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/boostcourse-ds-510/blob/master/k-beauty-oversea-online-sale-output.ipynb)
